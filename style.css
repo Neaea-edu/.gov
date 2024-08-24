@@ -5,7 +5,7 @@ body {
     font-family:  Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 .top{
-   width: 300px;
+   width: 405px;
    background-size: cover;
    position: relative; 
 }
@@ -17,8 +17,8 @@ body {
  }
 .right{
     
-    width: 276px;
-    margin-left: 15px;
+    width: 370px;
+    margin-left: 18px;
     margin-top: 390px;
     height: fit-content;
     border:solid 1px #247297;
@@ -35,8 +35,8 @@ body {
 .input{
     border:solid 1px #247297;
     height: 360px;
-    width: 276px;
-    margin-left: 15px;
+    width: 370px;
+    margin-left: 18px;
     margin-top: 10px;
     float: left;
     border-radius: 5px;
@@ -62,7 +62,7 @@ body {
     padding-left: 15px;
 }
 input{
-    width: 230px;
+    width: 315px;
     height: 35px;
     border-radius: 7px;
     border: none;
@@ -102,17 +102,17 @@ input{
     padding-right: 15px;
 }
 .last{
-    width: 300px;
+    width: 405px;
     height: 50px;
     border-top:solid 1px #caccce;
     margin-top: 40px;
     background-color: white;
 }
 .re-container{
-    width: 276px;
+    width: 370px;
     height:fit-content;
     border: solid 1px #247297;
-    margin-left: 15px;
+    margin-left: 18px;
     border-radius: 5px;
     margin-top: 400px;
 
